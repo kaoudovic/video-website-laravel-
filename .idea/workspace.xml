@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb17ef21-50eb-4759-b919-bab26af98a1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hFHGVvq3lSh28QgAsIZNBa9jMU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/front-end" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\course\Laravel5.8\video_website\resources\views\front-end" />
+      <recent name="E:\work\course\Laravel5.8\video_website\resources\views\back-end" />
+      <recent name="E:\work\course\Laravel5.8\video_website\resources\views\front-end\category" />
+      <recent name="E:\work\course\Laravel5.8\video_website\public\frontend" />
+      <recent name="E:\work\course\Laravel5.8\video_website\app\Http\Requests\BackEnd\Videos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\course\Laravel5.8\video_website\app\Http\Requests\BackEnd" />
+      <recent name="E:\work\course\Laravel5.8\video_website\resources\views\back-end" />
+      <recent name="E:\work\course\Laravel5.8\video_website\resources\views\back-end\shared" />
+      <recent name="E:\work\course\Laravel5.8\video_website\app\Models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb17ef21-50eb-4759-b919-bab26af98a1c" name="Default Changelist" comment="" />
+      <created>1599599824650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599599824650</updated>
+      <workItem from="1599599825711" duration="14782000" />
+      <workItem from="1599750981114" duration="6938000" />
+      <workItem from="1599872510556" duration="12917000" />
+      <workItem from="1599980652771" duration="18480000" />
+      <workItem from="1600095748703" duration="16607000" />
+      <workItem from="1600322479867" duration="5203000" />
+      <workItem from="1600460559899" duration="7660000" />
+      <workItem from="1600473338074" duration="15170000" />
+      <workItem from="1600632998520" duration="19583000" />
+      <workItem from="1601886611342" duration="8961000" />
+      <workItem from="1602046516851" duration="682000" />
+      <workItem from="1602048299585" duration="674000" />
+      <workItem from="1602051214013" duration="954000" />
+      <workItem from="1602053475655" duration="1990000" />
+      <workItem from="1602055490973" duration="1798000" />
+      <workItem from="1602057307699" duration="1884000" />
+      <workItem from="1602059224149" duration="1794000" />
+      <workItem from="1602061077298" duration="1861000" />
+      <workItem from="1602062964688" duration="1524000" />
+      <workItem from="1602064779454" duration="1887000" />
+      <workItem from="1602066693814" duration="1792000" />
+      <workItem from="1602133919208" duration="1737000" />
+      <workItem from="1602135675224" duration="1794000" />
+      <workItem from="1602137486619" duration="1792000" />
+      <workItem from="1602139300606" duration="1914000" />
+      <workItem from="1602143569508" duration="1794000" />
+      <workItem from="1602145384427" duration="365000" />
+      <workItem from="1603101771363" duration="602000" />
+      <workItem from="1603209169942" duration="621000" />
+      <workItem from="1603213849817" duration="599000" />
+      <workItem from="1603215771128" duration="937000" />
+      <workItem from="1603217577063" duration="1796000" />
+      <workItem from="1603219395656" duration="1847000" />
+      <workItem from="1603221264952" duration="1530000" />
+      <workItem from="1603223072118" duration="2845000" />
+      <workItem from="1603227020163" duration="390000" />
+      <workItem from="1603364011975" duration="1205000" />
+      <workItem from="1603368142093" duration="1807000" />
+      <workItem from="1603372702262" duration="600000" />
+      <workItem from="1603378071089" duration="818000" />
+      <workItem from="1604134563255" duration="1632000" />
+      <workItem from="1604136223830" duration="1802000" />
+      <workItem from="1604138339063" duration="1089000" />
+      <workItem from="1604142578681" duration="1795000" />
+      <workItem from="1604144388443" duration="1035000" />
+      <workItem from="1604146197829" duration="1823000" />
+      <workItem from="1604148033830" duration="1613000" />
+      <workItem from="1604149844450" duration="1799000" />
+      <workItem from="1604151669167" duration="1794000" />
+      <workItem from="1604309257388" duration="629000" />
+      <workItem from="1604325458556" duration="1956000" />
+      <workItem from="1604408531411" duration="867000" />
+      <workItem from="1604411358950" duration="1794000" />
+      <workItem from="1604413174941" duration="1797000" />
+      <workItem from="1604414993089" duration="1809000" />
+      <workItem from="1604416817706" duration="1016000" />
+      <workItem from="1604505955719" duration="232000" />
+      <workItem from="1604588104023" duration="816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1599758316962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1599758316962" />
+    <state x="428" y="188" key="#Notifications" timestamp="1600150282769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="428" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1600150282769" />
+    <state x="475" y="222" key="#Scopes" timestamp="1599892405594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="222" key="#Scopes/0.0.1366.728@0.0.1366.728" timestamp="1599892405594" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599892520898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599892520898" />
+    <state x="452" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600647732425">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600647732425" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599891851909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599891851909" />
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603227155326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603227155326" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1599892620983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599892620983" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1602063638208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602063638208" />
+    <state x="-38" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602138048724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-38" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602138048724" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/back-end/shared/buttons/delete.blade.php</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/back-end/messages/form.blade.php</url>
+          <line>55</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/layouts/footer.blade.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
